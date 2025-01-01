@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arunkumar KR</h1>
 <h3 align="center">Software Engineer from IT Department</h3>
 <img align="center" alt="coding" width="400" height="400" src="">
+
+
 # 💫 About Me:
 🎯 My goal is to explore modern technologies while showcasing my skills through hands-on projects.  <br>🌐 I am enthusiastic about discovering the latest advancements in technology.  <br>🔧 I enjoy developing projects that enhance my abilities and provide effective solutions.  <br>🚀 I am constantly eager to tackle new challenges, experiment with innovative concepts, and expand my knowledge as a tech enthusiast.  <br>🤝 I look forward to connecting and collaborating on exciting projects!  
 
